@@ -67,4 +67,4 @@ we use this alogrithm to find an optimal minimum of a differentiable function.
 
 ## Linear Algebra Review
 
-I skip this part ( i studied Linear Algebra when i was a Sophomore)
+I skip this part (I studied Linear Algebra when i was a Sophomore)
