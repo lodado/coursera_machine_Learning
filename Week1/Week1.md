@@ -30,10 +30,12 @@ Machine Learning algorithms
 
 1. Supervised Learning 
 > regression(continuous) 
+
 > classification(discrete)
 
 2. UnsuperVised Learning
 > clustering 
+
 > non - clustering (ex - cocktail party Algorithm)
 
 
