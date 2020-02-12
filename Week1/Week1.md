@@ -44,6 +44,9 @@ with experience E.
 
 ## Linear Regression with One Variable
 
+##### Training set(Supervised Learning)
+	input -> h(hypothesis) -> output
+
 	Hypothesis : Hθ(x) = θ0 + θ1 * x
 	Prameters : θ0, θ1
 	Cost Functions : J(θ0,θ1) = 1/2m Σ(i=1 to m) h(x^(i)) - y^(i))^2
