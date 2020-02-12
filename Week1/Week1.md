@@ -7,7 +7,7 @@ Grew out of work in AI
 New capability for computers
  
 
-#####Examples
+##### Examples
 > - Database mining 
 > - Applications can’t program by hand
 > - Self-customizing programs
