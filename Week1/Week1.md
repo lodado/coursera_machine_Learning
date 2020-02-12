@@ -4,7 +4,7 @@
 
 What is Machine Learning? 
  
-Grew out of work in AI
+Grew out of work in AI 
 New capability for computers
  
 
