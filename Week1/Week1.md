@@ -34,11 +34,11 @@ Machine Learning algorithms
 	- regression (continuous) 
 	- classification (discrete)
 
-2. UnsuperVised Learning
+2. Unsupervised Learning
 	- clustering 
 	- non - clustering (ex - cocktail party Algorithm)
 
-Others 
+3. Others 
 
 	 Reinforcement learning, recommendersystems, e.t.c...
 
@@ -53,7 +53,17 @@ where do we use Cost Functions? -> to minimize J(θ0, θ1)
 
 keep changing parameters to reduce J(θ0, θ1)
 
+##### Gradient descent algorithm
+	
+	θj := θj - a * d/(dθj) * J(θ0,θ1) (j = 0 and j = 1 )
+	* a = learning rate
+	* update simultaneously
+	*repeat until covergence
 
+if a is too small, gradient descent can be slow
+if a is too large, it also causes a problem (it may fail to converge, or even diverge)
+
+we use this alogrithm to find an optimal minimum of a differentiable function.
 
 
 ## Linear Algebra Review
