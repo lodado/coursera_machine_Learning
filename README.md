@@ -1,7 +1,7 @@
 # coursera_machine_Learning
 
-###Index/n
-  Week1/n
+###Index
+  Week1
     -Introduction
     -Linear Regression with One Variable
     -Linear Algebra
