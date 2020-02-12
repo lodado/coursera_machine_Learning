@@ -28,7 +28,7 @@ P - measure(Probability)
 
 Machine Learning algorithms
 
-1. Supervised Learning
+1. Supervised Learning 
 > regression(continuous)
 > classification(discrete)
 
