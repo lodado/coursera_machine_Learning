@@ -59,6 +59,10 @@ keep changing parameters to reduce J(θ0, θ1)
 	* update simultaneously
 	*repeat until covergence
 
+: =  Assignment
+  =  Truth assertion
+
+
 if a is too small, gradient descent can be slow.
  
 if a is too large, it also causes a problem.(it may fail to converge, or even diverge)
