@@ -5,8 +5,8 @@
 
 ###### What is Machine Learning? 
  
-> Grew out of work in AI 
-> New capability for computers
+>Grew out of work in A  
+>New capability for computers
  
 
 ##### Examples
