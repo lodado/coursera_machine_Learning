@@ -14,11 +14,11 @@ with experience E.
  
 In conclusion,  
 
-E - experience 
+E - Experience 
 
-T - task and performance
+T - Task and performance
 
-P - measure(Probability)
+P - Measure(Probability)
 
 ##### Examples
 > - Database mining 
@@ -36,7 +36,8 @@ Machine Learning algorithms
 	- clustering 
 	- non - clustering (ex - cocktail party Algorithm)
 
-
+Others
+	 Reinforcement learning, recommendersystems, e.t.c...
 
 ## Linear Regression with One Variable
 
