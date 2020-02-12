@@ -57,7 +57,7 @@ keep changing parameters to reduce J(θ0, θ1)
 	θj := θj - a * d/(dθj) * J(θ0,θ1) (j = 0 and j = 1 )
 	* a = learning rate
 	* update simultaneously
-	*repeat until covergence
+	* repeat until covergence
 
 : =  Assignment
 
