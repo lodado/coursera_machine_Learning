@@ -6,6 +6,7 @@ To practice and learn machine learncing course in Coursera (by anAndrew Ng)
 
 ### Index
 * Week1
+
          Introduction
          Linear Regression with One Variable
          Linear Algebra Review
