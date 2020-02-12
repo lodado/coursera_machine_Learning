@@ -5,11 +5,11 @@ To practice and learn machine learncing course in Coursera (by anAndrew Ng)
 
 
 ### Index
-    * Week1
+    ##### * Week1
     
-    * Week2
-    * Week3
-    * Week4
-    * Week5
+    ##### * Week2
+    ##### * Week3
+    ##### * Week4
+    ##### * Week5
 
 Cosera site : [Site](https://www.coursera.org/learn/machine-learning/home/info)
