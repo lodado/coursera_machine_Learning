@@ -61,7 +61,7 @@ keep changing parameters to reduce J(θ0, θ1)
 
 : =  Assignment
 
-  =  Truth assertion
+   =  Truth assertion
 
 
 if a is too small, gradient descent can be slow.
