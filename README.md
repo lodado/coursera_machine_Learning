@@ -1,6 +1,7 @@
 # coursera_machine_Learning
 
-###Index
+Index
+-------------
   Week1
     -Introduction
     -Linear Regression with One Variable
