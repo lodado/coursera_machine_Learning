@@ -14,18 +14,17 @@ with experience E.
  
 In conclusion,  
 
-E - Experience 
+	E - Experience 
 
-T - Task and performance
+	T - Task and performance
 
-P - Measure(Probability)
+	P - Measure(Probability)
 
 ##### Examples
 > - Database mining 
 > - Applications can’t program by hand
 > - Self-customizing programs
 > - Understanding human learning
-
 
 
 Machine Learning algorithms
@@ -60,10 +59,12 @@ keep changing parameters to reduce J(θ0, θ1)
 	* update simultaneously
 	*repeat until covergence
 
-if a is too small, gradient descent can be slow
-if a is too large, it also causes a problem (it may fail to converge, or even diverge)
+if a is too small, gradient descent can be slow.
+ 
+if a is too large, it also causes a problem.(it may fail to converge, or even diverge)
 
 we use this alogrithm to find an optimal minimum of a differentiable function.
 
-
 ## Linear Algebra Review
+
+	skip this part ( i have studied Linear Algebra when i was a Sophomore)
