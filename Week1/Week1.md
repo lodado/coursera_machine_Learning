@@ -29,11 +29,11 @@ P - measure(Probability)
 Machine Learning algorithms
 
 1. Supervised Learning 
-> regression(continuous)
+> regression(continuous) 
 > classification(discrete)
 
 2. UnsuperVised Learning
-> clustering
+> clustering 
 > non - clustering (ex - cocktail party Algorithm)
 
 
