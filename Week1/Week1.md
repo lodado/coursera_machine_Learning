@@ -12,7 +12,7 @@ and some performance measure P, if its
 performance on T, as measured by P, improves
 with experience E. 
  
-In conclusion,  
+##### In conclusion,  
 
 	E - Experience 
 
@@ -27,8 +27,8 @@ In conclusion,
 > - Understanding human learning
 
 
-Machine Learning algorithms
-
+##### Machine Learning algorithms
+	
 1. Supervised Learning 
 	- regression (continuous) 
 	- classification (discrete)
@@ -40,7 +40,7 @@ Machine Learning algorithms
 3. Others 
 
 	 Reinforcement learning, recommendersystems, e.t.c...
-
+	
 
 ## Linear Regression with One Variable
 
@@ -60,6 +60,7 @@ keep changing parameters to reduce J(θ0, θ1)
 	*repeat until covergence
 
 : =  Assignment
+
   =  Truth assertion
 
 
