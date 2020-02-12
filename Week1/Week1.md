@@ -36,7 +36,8 @@ Machine Learning algorithms
 	- clustering 
 	- non - clustering (ex - cocktail party Algorithm)
 
-Others
+Others 
+
 	 Reinforcement learning, recommendersystems, e.t.c...
 
 ## Linear Regression with One Variable
