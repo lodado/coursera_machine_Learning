@@ -51,9 +51,9 @@ with experience E.
 	Prameters : θ0, θ1
 	Cost Functions : J(θ0,θ1) = 1/2m Σ(i=1 to m) h(x^(i)) - y^(i))^2
 	
-where do we use Cost Functions? -> to minimize J(θ0, θ1),
+where do we use Cost Functions? -> to minimize J(θ0, θ1)
 
-and we use this data to predict something exactly as much as we can
+(to minimize the probability of getting an error)
 
 keep changing parameters to reduce J(θ0, θ1)
 
