@@ -44,11 +44,16 @@ with experience E.
 
 ## Linear Regression with One Variable
 
+##### Training set(Supervised Learning)
+	input -> h(hypothesis) -> output
+
 	Hypothesis : Hθ(x) = θ0 + θ1 * x
 	Prameters : θ0, θ1
 	Cost Functions : J(θ0,θ1) = 1/2m Σ(i=1 to m) h(x^(i)) - y^(i))^2
 	
 where do we use Cost Functions? -> to minimize J(θ0, θ1)
+
+(to minimize the probability of getting an error)
 
 keep changing parameters to reduce J(θ0, θ1)
 
@@ -57,11 +62,11 @@ keep changing parameters to reduce J(θ0, θ1)
 	θj := θj - a * d/(dθj) * J(θ0,θ1) (j = 0 and j = 1 )
 	* a = learning rate
 	* update simultaneously
-	*repeat until covergence
+	* repeat until covergence
 
 : =  Assignment
 
-  =  Truth assertion
+   =  Truth assertion
 
 
 if a is too small, gradient descent can be slow.
