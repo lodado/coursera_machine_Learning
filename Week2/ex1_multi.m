@@ -155,7 +155,7 @@ fprintf('\n');
 
 price =[1 1650 3] * theta;
 % this price is not exactly same as the previous answer.
-#(Approximation because of effect of featureNormalize)
+%(Approximation)
 
 % ============================================================
 
